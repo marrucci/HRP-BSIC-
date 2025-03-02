@@ -1,4 +1,4 @@
-# HRP-BSIC-
+# HRP-BSIC
 HRP article code by Tommaso Marrucci and Marcus Trotzemberg
 
 The order to run it is the following:
